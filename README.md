@@ -9,7 +9,7 @@ Learnt：101
 
 ## 传送门
 ### 1、数组
-- [0001.两数之和](./array/1_two_sum.py)
+- [0001.两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 ### 2、字符串
 
