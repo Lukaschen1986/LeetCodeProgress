@@ -2,13 +2,14 @@
 my LeetCode learning progress  
 
 [![Travis](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
-[![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/)
+[![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
 Learnt：101
 
 ## 传送门
 ### 1、数组
+
 
 ### 2、字符串
 
