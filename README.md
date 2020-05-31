@@ -1,8 +1,8 @@
 # LeetCodeProgress
 my LeetCode learning progress  
 
-[![Travis](https://img.shields.io/badge/language-Python-blue.svg)]()
-[![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)]()
+[![Travis](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+[![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/)
 
 ## 进度条
 Learnt：101
