@@ -2,6 +2,7 @@
 my LeetCode learning progress  
 
 [![Travis](https://img.shields.io/badge/language-Python-blue.svg)]()
+[![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)]()
 
 ## 进度条
 Learnt：101
