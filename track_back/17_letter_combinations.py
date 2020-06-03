@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-def letterCombinations(digits: str) -> List[str]:
+def letterCombinations(digits: str) -> list:
     phone = {
             '2': ['a', 'b', 'c'],
             '3': ['d', 'e', 'f'],
