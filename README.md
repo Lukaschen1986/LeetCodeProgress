@@ -10,6 +10,7 @@ Learnt：101
 ## 传送门
 ### 1、数组
 - [0001.两数之和](https://leetcode-cn.com/problems/two-sum/)  [->解答](./array/1_two_sum.py)
+- [0004.寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  [->解答](./array/4_findMedianSortedArrays.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答](./string/3_length_of_longest_substring.py)
