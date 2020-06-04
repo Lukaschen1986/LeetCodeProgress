@@ -14,6 +14,7 @@ Learnt：101
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答](./string/3_length_of_longest_substring.py)
+- [0006.Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)  [->解答](./string/6_convert.py)
 
 ### 3、动态规划
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答](./dp/32_longest_valid_parentheses.py)
