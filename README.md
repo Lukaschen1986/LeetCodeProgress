@@ -23,6 +23,7 @@ Learnt：101
 
 ### 4、回溯
 - [0017.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [->解答](./track_back/17_letter_combinations.py)
+- [0022.括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  [->解答](./track_back/22_generateParenthesis.py)
 
 ### 5、树
 - [0144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)   [->解答](./tree/144_preorderTraversal.py)
