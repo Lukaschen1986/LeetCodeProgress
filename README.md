@@ -18,6 +18,7 @@ Learnt：101
 
 ### 3、动态规划
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答](./dp/32_longest_valid_parentheses.py)
+- [0010.正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  [->解答(偷懒)](./dp/10_isMatch.py)
 
 ### 4、回溯
 - [0017.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [->解答](./track_back/17_letter_combinations.py)
