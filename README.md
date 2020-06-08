@@ -30,6 +30,8 @@ Learnt：101
 - [0144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)   [->解答](./tree/144_preorderTraversal.py)
 - [0094.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  [->解答](./tree/94_inorderTraversal.py)
 - [0145.二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)  [->解答](./tree/145_postorderTraversal.py)
+- [0102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  [->解答](./tree/102_levelOrder.py)
+- [0103.二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  [->解答](./tree/103_zigzagLevelOrder.py)
 
 ### 6、图
 - [0127.单词接龙](https://leetcode-cn.com/problems/word-ladder/)  [->解答](./graph/127_ladder_length.py)  [->自制变种 单词接龙路径](./graph/ladder_path.py)
