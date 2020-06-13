@@ -12,8 +12,7 @@ def threeSumClosest(nums: list, target: int) -> int:
             resid = abs(sum_ - target)
             
             if resid == 0:
-                # return sum_
-                pass
+                return sum_
             elif sum_ < target:
                 i += 1
             else:
