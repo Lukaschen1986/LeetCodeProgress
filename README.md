@@ -31,6 +31,10 @@ Learnt：101
 ### 4、回溯
 - [0017.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [->解答](./track_back/17_letter_combinations.py)
 - [0022.括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  [->解答](./track_back/22_generateParenthesis.py)
+- [0046.全排列](https://leetcode-cn.com/problems/permutations/)  [->解答](./track_back/46_permute.py)
+- [0047.全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  [->解答](./track_back/47_permuteUnique.py)
+- [0039.组合总和](https://leetcode-cn.com/problems/combination-sum/)  [->解答](./track_back/39_combinationSum.py)
+- [0040.组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)  [->解答](./track_back/40_combinationSum2.py)
 
 ### 5、树
 - [0144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)   [->解答](./tree/144_preorderTraversal.py)
