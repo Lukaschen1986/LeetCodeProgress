@@ -21,8 +21,8 @@ def uniquePathsWithObstacles(obstacleGrid: list) -> int:
         else:
             dp[0][j] = dp[0][j-1]
     
-    for i in range(m):
-        for j in range(n):
+    for i in range(1, m):
+        for j in range(1, n):
             if dp[i][j] == 1:
                 dp[i][j] = 0
             else:
