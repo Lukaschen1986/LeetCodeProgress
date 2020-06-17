@@ -14,7 +14,7 @@ Learnt：101
 - [0011.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  [->解答](./array/11_maxArea.py)
 - [0015.三数之和](https://leetcode-cn.com/problems/3sum/)  [->解答](./array/15_threeSum.py)
 - [0016.最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  [->解答](./array/16_threeSumClosest.py)
-- [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [击败90.27% ->解答](./array/31_nextPermutation.py)
+- [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [->解答（击败90.27%）](./array/31_nextPermutation.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答](./string/3_length_of_longest_substring.py)
