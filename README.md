@@ -9,11 +9,11 @@ Learnt：101
 
 ## 传送门
 ### 1、数组
-- [0001.两数之和](https://leetcode-cn.com/problems/two-sum/)  [->解答](./array/1_two_sum.py)
-- [0004.寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  [->解答](./array/4_findMedianSortedArrays.py)
-- [0011.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  [->解答](./array/11_maxArea.py)
-- [0015.三数之和](https://leetcode-cn.com/problems/3sum/)  [->解答](./array/15_threeSum.py)
-- [0016.最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  [->解答](./array/16_threeSumClosest.py)
+- [0001.两数之和](https://leetcode-cn.com/problems/two-sum/)  [->解答（击败74.77%）](./array/1_two_sum.py)
+- [0004.寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  [->解答（击败64.06%）](./array/4_findMedianSortedArrays.py)
+- [0011.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  [->解答（击败46.75%）](./array/11_maxArea.py)
+- [0015.三数之和](https://leetcode-cn.com/problems/3sum/)  [->解答（击败18.47%）](./array/15_threeSum.py)
+- [0016.最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  [->解答（击败50.67%）](./array/16_threeSumClosest.py)
 - [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [->解答（击败90.27%）](./array/31_nextPermutation.py)
 
 ### 2、字符串
