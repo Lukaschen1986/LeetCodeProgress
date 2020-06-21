@@ -10,7 +10,7 @@ def combinationSum2(candidates: list, target: int) -> list:
             for x in candidates:
                 resid = target - x
                 if resid >= 0:
-                    candidates = candidates[1:] # 注：这一步不能写到track_back函数中
+                    candidates = candidates[1:] # 注：candidates[1:]不能作为track_back的参数
                     track_back(combination + [x], resid, candidates)
                 
     track_back([], target, candidates)
