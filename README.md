@@ -20,6 +20,7 @@ Learnt：102
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
 - [0006.Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)  [->解答（击败59.02%）](./string/6_convert.py)
 - [0008.字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)  [->解答（击败77.15%）](./string/8_myAtoi.py)
+- [0014.最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)  [->解答（击败97.70%）](./string/14_longestCommonPrefix.py)
 
 ### 3、动态规划
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答（击败55.42%）](./dp/32_longest_valid_parentheses.py)
