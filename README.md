@@ -15,6 +15,8 @@ Learnt：102
 - [0015.三数之和](https://leetcode-cn.com/problems/3sum/)  [->解答（击败18.47%）](./array/15_threeSum.py)
 - [0016.最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  [->解答（击败50.67%）](./array/16_threeSumClosest.py)
 - [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [->解答（击败90.27%）](./array/31_nextPermutation.py)
+- [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [->解答（击败73.14%）](./array/33_search.py)
+- [0034.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [->解答（击败55.14%）](./array/34_searchRange.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
