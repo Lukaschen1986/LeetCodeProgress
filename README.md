@@ -17,6 +17,7 @@ Learnt：102
 - [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [->解答（击败90.27%）](./array/31_nextPermutation.py)
 - [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [->解答（击败73.14%）](./array/33_search.py)
 - [0034.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [->解答（击败55.14%）](./array/34_searchRange.py)
+- [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  [->解答（击败73.89%）](./array/35_searchInsert.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
