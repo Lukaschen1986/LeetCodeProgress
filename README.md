@@ -5,7 +5,7 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：33 / 102
+Learnt：34 / 102
 
 ## 传送门
 ### 1、数组
@@ -18,6 +18,7 @@ Learnt：33 / 102
 - [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [->解答（击败73.14%）](./array/33_search.py)
 - [0034.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [->解答（击败55.14%）](./array/34_searchRange.py)
 - [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  [->解答（击败73.89%）](./array/35_searchInsert.py)
+- [0041.缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)  [->解答（击败97.52%）](./array/41_firstMissingPositive.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
