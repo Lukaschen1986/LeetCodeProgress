@@ -5,7 +5,7 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：34 / 102
+Learnt：36 / 102
 
 ## 传送门
 ### 1、数组
@@ -35,6 +35,8 @@ Learnt：34 / 102
 - [0062.不同路径](https://leetcode-cn.com/problems/unique-paths/)  [->解答（击败72.87%）](./dp/62_uniquePaths.py)
 - [0063.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  [->解答（击败92.22%）](./dp/63_uniquePathsWithObstacles.py)
 - [0055.跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  [->解答（击败97.50%）](./dp/55_canJump.py)
+- [0198.打家劫舍](https://leetcode-cn.com/problems/house-robber/)  [->解答（击败96.56%）](./dp/198_rob.py)
+- [0213.打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)  [->解答（击败48.91%）](./dp/213_rob.py)
 
 ### 4、回溯
 - [0017.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [->解答（击败98.77%）](./track_back/17_letter_combinations.py)
