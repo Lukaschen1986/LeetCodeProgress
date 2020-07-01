@@ -27,7 +27,7 @@ Learnt：36 / 102
 - [0014.最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)  [->解答（击败97.70%）](./string/14_longestCommonPrefix.py)
 - [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  [->解答（击败97.13%）](./string/20_isValid.py)
 
-### 3、动态规划
+### 3、动规
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答（击败55.42%）](./dp/32_longest_valid_parentheses.py)
 - [0010.正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  [->解答(偷懒击败46.65%)](./dp/10_isMatch.py)
 - [0053.最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  [->解答（击败20.78%）](./dp/53_maxSubArray.py)
