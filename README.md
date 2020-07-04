@@ -26,6 +26,7 @@ Learnt：36 / 102
 - [0008.字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)  [->解答（击败77.15%）](./string/8_myAtoi.py)
 - [0014.最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)  [->解答（击败97.70%）](./string/14_longestCommonPrefix.py)
 - [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  [->解答（击败97.13%）](./string/20_isValid.py)
+- [0007.整数反转](https://leetcode-cn.com/problems/reverse-integer/)  [->解答（击败86.01%）](./string/7_reverse.py)
 
 ### 3、动规
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答（击败55.42%）](./dp/32_longest_valid_parentheses.py)
