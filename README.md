@@ -5,7 +5,7 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：38 / 104
+Learnt：39 / 104
 
 ## 传送门
 ### 1、数组
@@ -14,6 +14,7 @@ Learnt：38 / 104
 - [0011.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  [->解答（击败46.75%）](./array/11_maxArea.py)
 - [0015.三数之和](https://leetcode-cn.com/problems/3sum/)  [->解答（击败18.47%）](./array/15_threeSum.py)
 - [0016.最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  [->解答（击败50.67%）](./array/16_threeSumClosest.py)
+- [0018.四数之和](https://leetcode-cn.com/problems/4sum/)  [->解答（击败5.00%）](./array/18_fourSum.py)
 - [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [->解答（击败90.27%）](./array/31_nextPermutation.py)
 - [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [->解答（击败73.14%）](./array/33_search.py)
 - [0034.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [->解答（击败55.14%）](./array/34_searchRange.py)
