@@ -5,7 +5,7 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：37 / 104
+Learnt：38 / 104
 
 ## 传送门
 ### 1、数组
