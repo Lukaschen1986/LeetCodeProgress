@@ -6,8 +6,7 @@ def isPalindrome(x: int) -> bool:
         y = str(x)[::-1]
         return y == str(x)
 
-
-
+    
 if __name__ == "__main__":
     x = -121
     x = 120
