@@ -22,7 +22,7 @@ def fourSum(nums: list, target: int) -> list:
             while c < d:
                 lst = [nums[a], nums[b], nums[c], nums[d]]
                 
-                if (sum(lst) == target):
+                if sum(lst) == target:
                     res.append(lst)
                     c += 1
                     d -= 1
