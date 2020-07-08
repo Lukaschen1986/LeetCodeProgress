@@ -20,6 +20,7 @@ Learnt：39 / 104
 - [0034.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [->解答（击败55.14%）](./array/34_searchRange.py)
 - [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  [->解答（击败73.89%）](./array/35_searchInsert.py)
 - [0041.缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)  [->解答（击败97.52%）](./array/41_firstMissingPositive.py)
+- [0026.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  [->解答（击败66.22%）](./array/26_removeDuplicates.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
