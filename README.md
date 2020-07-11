@@ -21,6 +21,7 @@ Learnt：40 / 104
 - [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  [->解答（击败73.89%）](./array/35_searchInsert.py)
 - [0041.缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)  [->解答（击败97.52%）](./array/41_firstMissingPositive.py)
 - [0026.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  [->解答（击败66.22%）](./array/26_removeDuplicates.py)
+- [0027.移除元素](https://leetcode-cn.com/problems/remove-element/)  [->解答（击败88.23%）](./array/27_removeElement.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
@@ -30,6 +31,7 @@ Learnt：40 / 104
 - [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  [->解答（击败97.13%）](./string/20_isValid.py)
 - [0007.整数反转](https://leetcode-cn.com/problems/reverse-integer/)  [->解答（击败86.01%）](./string/7_reverse.py)
 - [0009.回文数](https://leetcode-cn.com/problems/palindrome-number/)  [->解答（击败97.58%）](./string/9_isPalindrome.py)
+- [0028.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)  [->解答（击败79.46%）](./string/28_strStr.py)
 
 ### 3、动规
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答（击败55.42%）](./dp/32_longest_valid_parentheses.py)
