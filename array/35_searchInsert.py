@@ -34,7 +34,7 @@ def searchInsert(nums: list, target: int) -> int:
         return a
         
         
-    if __name__ == "__main__":
+if __name__ == "__main__":
     nums = [1,3,5,6]
     target = 2
     
