@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 
-
 def spiralOrder(matrix: list) -> list:
     res = []
     Matrix = np.array(matrix, dtype=np.int64)
