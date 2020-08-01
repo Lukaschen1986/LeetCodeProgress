@@ -5,8 +5,8 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：46 / 104  
-review: 54
+Learnt：47 / 104  
+review: 56
 
 ## 传送门
 ### 1、数组
@@ -25,6 +25,7 @@ review: 54
 - [0027.移除元素](https://leetcode-cn.com/problems/remove-element/)  [->解答（击败88.23%）](./array/27_removeElement.py)
 - [0048.旋转图像](https://leetcode-cn.com/problems/rotate-image/)  [->解答（击败87.88%）](./array/48_rotate.py)
 - [0054.螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  [->解答（击败5.72%）代码简洁但耗时](./array/54_spiralOrder.py)
+- [0056.合并区间](https://leetcode-cn.com/problems/merge-intervals/)  [->解答（击败82.94%）](./array/56_merge.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答（击败67.08%）](./string/3_length_of_longest_substring.py)
