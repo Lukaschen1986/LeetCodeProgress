@@ -5,8 +5,8 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：49 / 105  
-review: 64  
+Learnt：50 / 105  
+review: 66  
 
 ## 传送门
 ### 1、数组
@@ -39,6 +39,7 @@ review: 64
 - [0028.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)  [->解答（击败79.46%）](./string/28_strStr.py)
 - [0036.有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)  [->解答（击败6.13%）](./string/36_isValidSudoku.py)
 - [0049.字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  [->解答（击败98.67%）](./string/49_groupAnagrams.py)
+- [0066.加一](https://leetcode-cn.com/problems/plus-one/)  [->解答（击败44.89%）](./string/66_plusOne.py)
 
 ### 3、动规
 - [0032.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  [->解答（击败55.42%）](./dp/32_longest_valid_parentheses.py)
