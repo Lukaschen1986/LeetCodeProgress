@@ -17,6 +17,7 @@ def minPathSum(grid: list) -> int:
     
     return dp[-1][-1]
     
+    
 if __name__ == "__main__":
     grid = [
       [1,3,1],
