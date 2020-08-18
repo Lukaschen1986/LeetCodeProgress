@@ -5,8 +5,8 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：50 / 105  
-review: 66  
+Learnt：51 / 105  
+review: 70  
 
 ## 传送门
 ### 1、数组
@@ -52,6 +52,7 @@ review: 66
 - [0198.打家劫舍](https://leetcode-cn.com/problems/house-robber/)  [->解答（96.56%）](./dp/198_rob.py)
 - [0213.打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)  [->解答（48.91%）](./dp/213_rob.py)
 - [0064.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)  [->解答（93.06%）](./dp/64_minPathSum.py)
+- [0070.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  [->解答（85.93%）](./dp/70_climbStairs.py)
 
 ### 4、回溯
 - [0017.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [->解答（98.77%）](./track_back/17_letter_combinations.py)
