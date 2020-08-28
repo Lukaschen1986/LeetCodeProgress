@@ -5,8 +5,8 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：53 / 105  
-review: 74  
+Learnt：54 / 105  
+review: 75  
 
 ## 传送门
 ### 1、数组
@@ -29,6 +29,7 @@ review: 74
 - [0697.数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)  [->解答](./array/697_findShortestSubArray.py)
 - [0073.矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)  [->解答](./array/73_setZeroes.py)
 - [0074.搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)  [->解答](./array/74_searchMatrix.py)
+- [0075.颜色分类](https://leetcode-cn.com/problems/sort-colors/)  [->解答](./array/75_sortColors.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答](./string/3_length_of_longest_substring.py)
