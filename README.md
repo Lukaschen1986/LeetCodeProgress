@@ -5,8 +5,8 @@ my LeetCode learning progress
 [![Travis](https://img.shields.io/badge/website-LeetCode-orange.svg)](https://leetcode-cn.com/problemset/all/)
 
 ## 进度条
-Learnt：54 / 105  
-review: 75  
+Learnt：55 / 105  
+review: 78  
 
 ## 传送门
 ### 1、数组
@@ -64,6 +64,7 @@ review: 75
 - [0047.全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  [->解答](./track_back/47_permuteUnique.py)
 - [0039.组合总和](https://leetcode-cn.com/problems/combination-sum/)  [->解答](./track_back/39_combinationSum.py)
 - [0040.组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)  [->解答](./track_back/40_combinationSum2.py)
+- [0078.子集](https://leetcode-cn.com/problems/subsets/)  [->解答](./track_back/78_subsets.py)
 
 ### 5、树
 - [0144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)   [->解答](./tree/144_preorderTraversal.py)
