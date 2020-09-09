@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 def binary_search(lst, target):
+    """
+    二分查找
+    O(log(n)) time | O(1) space
+    """
     if not lst:
         return False
     
