@@ -18,6 +18,7 @@ review: 78
 - [0018.四数之和](https://leetcode-cn.com/problems/4sum/)  [->解答](./array/18_fourSum.py)
 - [0031.下一个排列](https://leetcode-cn.com/problems/next-permutation/)  [->解答](./array/31_nextPermutation.py)
 - [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [->解答](./array/33_search.py)
+- [0081.搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)  [->解答](./array/81_search.py)
 - [0034.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [->解答](./array/34_searchRange.py)
 - [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  [->解答](./array/35_searchInsert.py)
 - [0041.缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)  [->解答](./array/41_firstMissingPositive.py)
