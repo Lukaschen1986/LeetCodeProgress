@@ -67,6 +67,7 @@ review: 78
 - [0039.组合总和](https://leetcode-cn.com/problems/combination-sum/)  [->解答](./track_back/39_combinationSum.py)
 - [0040.组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)  [->解答](./track_back/40_combinationSum2.py)
 - [0078.子集](https://leetcode-cn.com/problems/subsets/)  [->解答](./track_back/78_subsets.py)
+- [0090.子集 II](https://leetcode-cn.com/problems/subsets-ii/)  [->解答](./track_back/90_subsetsWithDup.py)
 
 ### 5、树
 - [0144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)   [->解答](./tree/144_preorderTraversal.py)
