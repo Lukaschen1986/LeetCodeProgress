@@ -31,6 +31,7 @@ review: 78
 - [0073.矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)  [->解答](./array/73_setZeroes.py)
 - [0074.搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)  [->解答](./array/74_searchMatrix.py)
 - [0075.颜色分类](https://leetcode-cn.com/problems/sort-colors/)  [->解答](./array/75_sortColors.py)
+- [0088.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  [->解答](./array/88_merge.py)
 
 ### 2、字符串
 - [0003.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  [->解答](./string/3_length_of_longest_substring.py)
