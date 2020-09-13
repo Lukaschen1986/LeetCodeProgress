@@ -29,6 +29,11 @@ def nthFibonacci(nth):
     第n个斐波拉契数（迭代）
     O(N) time | O(1) space
     """
+    if nth <= 1:
+        return 0
+    if nth == 2:
+        return 1
+    
     a = 0
     b = 1
     idx = 3
@@ -43,3 +48,4 @@ def nthFibonacci(nth):
 
 if __name__ == "__main__":
     nth = 10
+    nthFibonacci(nth)
