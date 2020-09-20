@@ -9,7 +9,8 @@ class TreeNode(object):
 def FindClosestValueInBST(root, target):
     """
     二叉查找树中最接近的值（递归）
-    O(log(n)) time | O(1) space
+    # Average: O(log(n)) time | O(1) space
+    # Worst: O(n) time | O(1) space
     """
     closest = float("inf")
     
@@ -33,7 +34,8 @@ def FindClosestValueInBST(root, target):
 def FindClosestValueInBST(root, target):
     """
     二叉查找树中最接近的值（迭代）
-    O(log(n)) time | O(1) space
+    # Average: O(log(n)) time | O(1) space
+    # Worst: O(n) time | O(1) space
     """
     closest = float("inf")
     current_node = root
