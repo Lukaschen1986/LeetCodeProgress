@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 def levenshtein_distance(str1, str2):
     """
+    字符串编辑距离
     # O(N^2) time | O(N^2) space
     """
     # 构造0矩阵
