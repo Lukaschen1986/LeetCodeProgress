@@ -11,7 +11,7 @@ def min_number_of_coins_for_change(coins: list, target: int) -> int:
         for (k, _) in dct.items():
             if c <= k:
                 dp = k - c
-                dct[k] = 1 + dct.get(dp)
+                dct[k] = min(dct.get(k), 1 + dct.get(dp))
     
     if dct.get(target) == float("inf"):
         return -1
