@@ -27,4 +27,3 @@ if __name__ == "__main__":
     target = 5
     
     min_number_of_coins_for_change(coins, target)
-    all_cases(coins, target)
