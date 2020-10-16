@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 def min_number_of_coins_for_change(coins: list, target: int) -> int:
     """
-    最小找零问题
-    O(N^2) time | O(N) space
+    最小硬币数量：给定硬币面值和目标金额，算出满足目标金额最少需要的硬币数量
+    动规：O(N^2) time | O(N) space
     """
     dct = {k:float("inf") for (k, _) in enumerate(range(target + 1))}
     dct[0] = 0
@@ -17,28 +17,6 @@ def min_number_of_coins_for_change(coins: list, target: int) -> int:
         return -1
     else:
         return dct.get(target)
-
-    
-
-def all_cases(coins, target):
-    """
-    返回所有可能的硬币组合（回溯）
-    """
-    res = []
-    constant = target
-    
-    def trace_back(combination, target):
-        if target <= 0:
-            if (sum(combination) == constant) and (sorted(combination) not in res):
-                res.append(combination)
-                return
-        else:
-            for coin in coins:
-                resid = target - coin
-                trace_back(combination + [coin], resid)
-    
-    trace_back([], target)
-    return res
 
 
 if __name__ == "__main__":
