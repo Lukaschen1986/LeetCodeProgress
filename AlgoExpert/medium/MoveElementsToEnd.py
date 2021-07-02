@@ -8,14 +8,15 @@ def move_elements_to_end(nums, target):
     j = len(nums) - 1
     
     while i < j:
-        if nums[j] == target:
-            j -= 1
-        elif (nums[j] != target) and (nums[i] == target):
-            nums[i], nums[j] = nums[j], nums[i]
-            i += 1
+        if lst[j] == target:
             j -= 1
         else:
-            i += 1
+            if lst[i] == target:
+                lst[i], lst[j] = lst[j], lst[i]
+                i += 1
+                j -= 1
+            else:
+                i += 1
     
     return nums
         
