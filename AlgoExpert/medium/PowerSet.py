@@ -6,16 +6,14 @@ def power_set(nums):
     """
     res = [[]]
     
-    for x in nums:
+    for x in lst:
         for i in range(len(res)):
-            val = res[i] + [x]
-            res.append(val)
-        
+            res.append(res[i] + [x])
+    
     return res
 
 
 from itertools import combinations
-
 def power_set(nums):
     res = []
     
