@@ -5,6 +5,9 @@ Created on Sun Jul 25 17:28:36 2021
 @author: ASUS
 """
 def merge(intervals: list) -> list:
+    """
+    ​O(NlogN) time | O(N) space
+    """
     intervals.sort()
     res = [intervals[0]]
 
