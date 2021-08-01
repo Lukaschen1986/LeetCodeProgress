@@ -5,6 +5,9 @@ Created on Sun Aug  1 17:13:51 2021
 @author: ASUS
 """
 def coinChange(coins, amount):
+    """
+    硬币组合数
+    """
     dp = [0] * (amount + 1)
     dp[0] = 1
     
