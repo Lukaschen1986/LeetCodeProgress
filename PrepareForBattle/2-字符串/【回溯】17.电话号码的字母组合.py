@@ -5,9 +5,6 @@ Created on Sun Aug  1 16:04:43 2021
 @author: ASUS
 """
 def letterCombinations(digits):
-    if not digits:
-        return []
-    
     dct = {
         "2": ["a", "b", "c"],
         "3": ["d", "e", "f"],
@@ -18,17 +15,19 @@ def letterCombinations(digits):
         "8": ["t", "u", "v"],
         "9": ["w", "x", "y", "z"]
         }
+    if not digits:
+        return []
     res = []
     
     def back_track(combination, digits):
         if not digits:
             res.append(combination)
-            return 
         else:
-            lst = dct.get(digits[0])
-            for x in lst:
-                back_track(combination + x, digits[1:])
-            
+            k = digits[0]
+            lst = dct.get(k)
+            for s in lst:
+                back_track(combination + s, digits[1:])
+    
     back_track("", digits)
     return res
     
