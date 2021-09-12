@@ -5,12 +5,17 @@ Created on Wed Jul 28 20:19:36 2021
 @author: ASUS
 """
 def lengthOfLIS(nums):
-    dp = [1] * len(nums)
+    """
+    time = O(N^2)
+    space = O(N)
+    """
+    n = len(nums)
+    dp = [1]*n
     
-    for i in range(1, len(nums)):
+    for i in range(1, n):
         for j in range(0, i):
             if nums[j] < nums[i]:
-                dp[i] = max(dp[i], 1 + dp[j])
+                dp[i] = max(dp[i], dp[j]+1)
     
     return max(dp)
     
