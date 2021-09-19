@@ -22,3 +22,8 @@ def longestCommonSubsequence(text1: str, text2: str) -> int:
                 dp[i][j] = max(dp[i-1][j], dp[i][j-1])
     
     return dp[-1][-1]
+
+
+if __name__ == "__main__":
+    text1 = "abcde"
+    text2 = "ace"
