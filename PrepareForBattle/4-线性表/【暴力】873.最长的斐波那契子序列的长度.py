@@ -19,7 +19,7 @@ def lenLongestFibSubseq(arr) -> int:
             count = 2
             a, b = arr[i], arr[j]
             c = a + b
-            while c in s:
+            while c in s: # 神来之笔
                 count += 1
                 a, b = b, c
                 c = a + b
