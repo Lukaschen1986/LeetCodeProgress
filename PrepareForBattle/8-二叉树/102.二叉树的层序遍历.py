@@ -10,7 +10,7 @@ from collections import deque
 
 class Solution:
     def levelOrder(self, root: TreeNode) -> List[List[int]]:
-        queue = deque([[root, 0]])
+        queue = deque([[root, 0]])  # 注意 deque 的入参结构 [[]]
         res = []
 
         while queue:
@@ -18,7 +18,7 @@ class Solution:
             if not curr_node:
                 continue
 
-            if len(res) == depth:
+            if len(res) == depth:  # 神来之笔
                 res.append([])
             
             res[depth].append(curr_node.val)
